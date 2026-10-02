@@ -1,6 +1,3 @@
-# Machine-Learning-Feature-Selection-
-A practical study of feature selection in Python with scikit-learn, comparing filter, wrapper, and embedded methods across two datasets.
-
 # Feature Selection in Machine Learning
 A practical, two-part study of feature selection techniques in Python, built with scikit-learn. The project replicates a two-version resource end to end. Version 1 applies a range of selection methods to a single classification problem and compares them on one consistent metric. Version 2 works through the three main families of feature selection methods, with a clean worked example of each.
 
